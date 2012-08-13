@@ -10,3 +10,7 @@
 *.lai
 *.la
 *.a
+
+# edit temp files
+*~
+*.autosave
