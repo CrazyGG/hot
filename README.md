@@ -1,4 +1,4 @@
 hot
 ===
 
-hos is c++ IoC framework
+hot is c++ IoC framework
